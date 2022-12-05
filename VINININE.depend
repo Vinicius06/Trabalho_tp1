@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1670033030 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\dominios.cpp
+	"Dominios.h"
+	<regex>
+	<iostream>
+	<sstream>
+
+1669987681 c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\dominios.h
+	<stdexcept>
+
+1669397046 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\entidade.cpp
+	"Entidade.h"
+
+1670031722 c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\entidade.h
+	"Dominios.h"
+	<string>
+
+1670032147 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\main.cpp
+	<iostream>
+	"Dominios.h"
+	"Entidade.h"
+	"TesteDominios.h"
+	"TesteEntidade.h"
+
+1669425395 c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\teste.h
+	"Dominios.h"
+	"Entidade.h"
+
+1669400286 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\teste.cpp
+	"Entidade.h"
+	"Teste.h"
+
+1670031776 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\testeentidade.cpp
+	"TesteEntidade.h"
+
+1669989845 c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\testeentidade.h
+	"Entidade.h"
+
+1670032697 c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\testedominios.h
+	"Dominios.h"
+	"Entidade.h"
+
+1670032381 source:c:\users\gonca\onedrive\ambiente de trabalho\tp1\trabalho\vininine\testedominios.cpp
+	"TesteDominios.h"
+
+1670098537 source:d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\dominios.cpp
+	"Dominios.h"
+	<regex>
+	<iostream>
+	<sstream>
+
+1670098435 d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\dominios.h
+	<stdexcept>
+
+1669397046 source:d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\entidade.cpp
+	"Entidade.h"
+
+1670031722 d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\entidade.h
+	"Dominios.h"
+	<string>
+
+1670032147 source:d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\main.cpp
+	<iostream>
+	"Dominios.h"
+	"Entidade.h"
+	"TesteDominios.h"
+	"TesteEntidade.h"
+
+1670098689 d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\testedominios.h
+	"Dominios.h"
+	"Entidade.h"
+
+1670098594 d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\testeentidade.h
+	"Entidade.h"
+
+1670032381 source:d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\testedominios.cpp
+	"TesteDominios.h"
+
+1670031776 source:d:\vinicius\meus documentos\onedrive\햞ea de trabalho\vininine\testeentidade.cpp
+	"TesteEntidade.h"
+
+1670208156 source:d:\nova pasta\vininine\dominios.cpp
+	"Dominios.h"
+	<regex>
+	<iostream>
+	<sstream>
+
+1670214229 d:\nova pasta\vininine\dominios.h
+	<stdexcept>
+
+1669397046 source:d:\nova pasta\vininine\entidade.cpp
+	"Entidade.h"
+
+1670214227 d:\nova pasta\vininine\entidade.h
+	"Dominios.h"
+	<string>
+
+1670205591 source:d:\nova pasta\vininine\main.cpp
+	<iostream>
+	"Dominios.h"
+	"Entidade.h"
+	"TesteDominios.h"
+	"TesteEntidade.h"
+
+1670214229 d:\nova pasta\vininine\testedominios.h
+	"Dominios.h"
+	"Entidade.h"
+
+1670208156 d:\nova pasta\vininine\testeentidade.h
+	"Entidade.h"
+
+1670208156 source:d:\nova pasta\vininine\testedominios.cpp
+	"TesteDominios.h"
+
+1670208155 source:d:\nova pasta\vininine\testeentidade.cpp
+	"TesteEntidade.h"
+
