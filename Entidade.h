@@ -7,8 +7,7 @@
 using namespace std;
 
 /**
- * @brief Classe Usuario
- * Classe de Entidade Usuario contem atributos: Nome (dominio nome).
+ * @brief Declaracao da Classe de Entidade Usuario contem atributos
  */
 
 class Usuario{
@@ -130,8 +129,7 @@ inline Senha Usuario::getSenha() const {
 
 
 /**
- * @brief Classe Projeto
- * Classe de Entidade Projeto contem atributos: Codigo (dominio codigo).
+ * @brief Declaracao da Classe de Entidade Projeto contem atributos
  */
 
 class Projeto{
@@ -246,8 +244,7 @@ inline void Projeto::setNome(const Texto& nome){
 }
 
 /**
- * @brief Classe Tarefa
- * Classe de Entidade Tarefa contem atributos
+ * @brief Declaracao da Classe de Entidade Tarefa contem atributos
  */
 
 class Tarefa{
