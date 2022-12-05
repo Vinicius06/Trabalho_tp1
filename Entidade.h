@@ -131,7 +131,7 @@ inline Senha Usuario::getSenha() const {
 
 /**
  * @brief Classe Projeto
- * Classe de Entidade Projeto contém atributos: Codigo (dominio codigo).
+ * Classe de Entidade Projeto contem atributos: Codigo (dominio codigo).
  */
 
 class Projeto{
@@ -245,6 +245,10 @@ inline void Projeto::setNome(const Texto& nome){
     return descricao;
 }
 
+/**
+ * @brief Classe Tarefa
+ * Classe de Entidade Tarefa contem atributos
+ */
 
 class Tarefa{
     private:
